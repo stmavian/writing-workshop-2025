@@ -24,8 +24,6 @@ Focus on your main statistical analysis.
 
 -   Write down a formula to explain the main analysis you currently plan to do
 
-REPLACE THE FOLLOWING EQUATION WITH YOURS.
-
 $$ logit(1(RespondentDisplaced)) = \beta_0 + \beta_1 * \text{1(RecruiterDisplaced)} $$
 
 -   How could you motivate the chosen model?
