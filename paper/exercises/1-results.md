@@ -14,7 +14,7 @@ Imagine a visualization (table or plot) that you would use to summarize your **d
 
 -   If you have time left, take a picture of your sketch with caption and over-write the file `figures/results-descriptive.png`
 
-    ![](figures/recruit-network-figure-draft-28.jpg)
+    ![](figures/results-inferential.png)
 
 ### Sub-team 2
 
@@ -24,7 +24,8 @@ Imagine a visualization (table or plot) that you would use to summarize your **i
 
 -   If you have time left, take a picture of your sketch with caption and over-write the file `figures/results-inferential.png`
 
-![](figures/results-inferential.png)
+
+    ![](figures/recruit-network-figure-draft-28.jpg) 
 
 ## Part 2
 
